@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Un detalle para ti 💛</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- FLORES DEL FONDO -->
+    <div id="floresFondo" aria-hidden="true"></div>
+
+    <!-- PÉTALOS -->
+    <div id="petalos" aria-hidden="true"></div>
+
+
+    <!-- ESTADO PARA ENLACES AÚN NO ACTIVOS -->
+    <main id="estadoPreparando" class="estado-preparando" hidden aria-live="polite">
+
+        <div class="espera-contenido">
+
+            <span class="espera-flor" aria-hidden="true">🌻</span>
+
+            <p class="para">
+                DETALLE DIGITAL
+            </p>
+
+            <h1>
+                Este detalle todavía
+                <span>se está preparando 💛</span>
+            </h1>
+
+            <p>
+                Vuelve a abrir este enlace cuando esté listo.
+            </p>
+
+        </div>
+
+    </main>
+
+
+    <main id="experiencia">
+
+
+    <!-- PORTADA -->
+    <section class="hero">
+
+        <div class="badge">
+            💛 Especial 21 de Septiembre
+        </div>
+
+        <h1>
+            Hay regalos que se marchitan...
+            <span>y otros que se quedan en el recuerdo.</span>
+        </h1>
+
+        <p class="subtitulo">
+            Una sorpresa digital creada especialmente para esa persona
+            que quieres hacer sonreír.
+        </p>
+
+
+        <div class="ramo-principal">
+
+            <span>🌻</span>
+            <span>🌼</span>
+            <span>🌻</span>
+            <span>🌼</span>
+            <span>🌻</span>
+
+        </div>
+
+
+        <button id="abrirSorpresa" class="boton-principal" type="button" aria-expanded="false">
+            💛 Descubrir la sorpresa
+        </button>
+
+        <p class="mini">
+            Toca el botón ✨
+        </p>
+
+    </section>
+
+
+
+    <!-- SORPRESA -->
+    <section id="sorpresa" class="sorpresa">
+
+        <div class="brillo"></div>
+
+        <p class="para">
+            PARA
+        </p>
+
+        <h2 id="nombrePersona">
+            Alguien especial 💛
+        </h2>
+
+        <p id="nombreCancion" class="nombre-cancion" hidden></p>
+
+
+        <div class="ramo-grande">
+
+            <div class="flor">🌻</div>
+            <div class="flor">🌼</div>
+            <div class="flor grande">🌻</div>
+            <div class="flor">🌼</div>
+            <div class="flor">🌻</div>
+
+        </div>
+
+
+        <div id="galeriaFotos" class="galeria-fotos" hidden aria-label="Fotos del detalle"></div>
+
+
+        <div class="carta">
+
+            <div class="corazon">
+                💛
+            </div>
+
+            <h3>
+                Un pequeño detalle para ti
+            </h3>
+
+            <p id="mensajeCarta">
+
+                Tal vez las flores duren unos días,
+                pero hay detalles que pueden quedarse
+                mucho más tiempo.
+
+                Por eso hoy no quería regalarte solamente
+                flores amarillas.
+
+                Quería regalarte un pequeño recuerdo.
+
+                Algo que puedas abrir cuando quieras
+                y recordar que, en algún lugar,
+                alguien pensó en ti.
+
+                Feliz 21 de septiembre. 💛🌻
+
+            </p>
+
+        </div>
+
+
+        <div class="frase">
+
+            <span>“</span>
+
+            Que nunca te falten motivos
+            para sonreír.
+
+            <span>”</span>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- SECCIÓN COMERCIAL -->
+    <section class="venta">
+
+        <p class="etiqueta">
+            ¿TE GUSTÓ?
+        </p>
+
+        <h2>
+            Haz uno personalizado
+            para tu persona favorita 💛
+        </h2>
+
+
+        <p class="descripcion">
+
+            Personalizamos esta experiencia con
+            su nombre, tus palabras, sus fotos
+            y una canción especial.
+
+        </p>
+
+
+        <div class="beneficios">
+
+            <div class="beneficio">
+                <span>💌</span>
+                <h3>Carta personalizada</h3>
+                <p>Escribe lo que nunca te atreviste a decir.</p>
+            </div>
+
+
+            <div class="beneficio">
+                <span>📸</span>
+                <h3>Sus fotos</h3>
+                <p>Convierte sus momentos en parte de la sorpresa.</p>
+            </div>
+
+
+            <div class="beneficio">
+                <span>🎵</span>
+                <h3>Su canción</h3>
+                <p>Una canción que haga que el detalle sea todavía más especial.</p>
+            </div>
+
+
+            <div class="beneficio">
+                <span>🔗</span>
+                <h3>Link privado</h3>
+                <p>Lo enviamos listo para abrir desde cualquier celular.</p>
+            </div>
+
+        </div>
+
+
+
+        <div class="precio">
+
+            <small>
+                Detalles personalizados
+            </small>
+
+            <strong>
+                desde S/ 10
+            </strong>
+
+            <p>
+                Entrega digital • Personalizado • Listo para regalar
+            </p>
+
+        </div>
+
+
+
+        <a
+            id="botonWhatsapp"
+            class="whatsapp"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+
+            💬 Quiero crear mi sorpresa
+
+        </a>
+
+
+        <p class="cupos">
+            🌻 Cupos limitados para el 21 de septiembre
+        </p>
+
+    </section>
+
+    </main>
+
+
+
+    <!-- AUDIO -->
+    <audio id="musica" loop preload="metadata"></audio>
+
+
+    <script src="data/clientes.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

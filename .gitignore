@@ -1,0 +1,21 @@
+# Sistema operativo
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Editor / entorno
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Git / entorno local
+.git/
+
+# Si más adelante agregas dependencias, aquí puedes añadir:
+# node_modules/
+# .env
