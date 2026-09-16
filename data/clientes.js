@@ -18,17 +18,17 @@ window.CLIENTES = {
     nombre: "José",
     mensaje: `Para ti, mi persona favorita.
 
-Hay momentos que no necesitan mucho para volverse especiales.
-Solo una mirada, un recuerdo, un gesto que diga: “te pensé”.
+No sé qué lugar llegaré a ocupar en tu vida, pero me gusta haber coincidido contigo.
 
-Y hoy quiero recordarte lo mucho que te valoro.
-Gracias por acompañarme, por hacerme sonreír y por llenar mi vida de calma, cariño y alegría.
+No quiero prometerte perfección, solo sinceridad, momentos bonitos y la intención de hacerte sonreír siempre que pueda.
 
-Este detalle es para ti, para recordarte que eres muy importante para mí.
+Quizá esto solo sea una canción y unas cuantas palabras, pero detrás hay algo muy real:
 
-Te quiero mucho 💛
+alguien pensó en ti mientras preparaba cada detalle. ❤️
 
-P.D. Siempre quiero que sepas que contigo todo se siente más bonito.`,
+Y si algún día me preguntas qué quiero contigo…
+
+simplemente quiero descubrirlo a tu lado.`,
     whatsapp: "",
     musica: "assets/audio/cliente01.mp3",
     nombreCancion: "flow natural",
