@@ -31,9 +31,9 @@ Te quiero mucho 💛
 P.D. Siempre quiero que sepas que contigo todo se siente más bonito.`,
     whatsapp: "",
     musica: "assets/audio/cliente01.mp3",
-    nombreCancion: "Nuestra canción",
-    imagen: "",
-    imagenes: [],
+    nombreCancion: "flow natural",
+    imagen: "", 
+    imagenes: [images/cliente01.jpg,],
     titulo: "Un detalle para José 💛"
   },
   cliente02: {
