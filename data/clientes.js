@@ -30,8 +30,8 @@ Y si algún día me preguntas qué quiero contigo…
 
 simplemente quiero descubrirlo a tu lado.`,
     whatsapp: "",
-    musica: "assets/audio/cliente01.mp3",
-    nombreCancion: "flow natural",
+    musica: "assets/audio/cliente01-t.mp3",
+    nombreCancion: "Te prometo",
     imagen: "assets/images/cliente01.jpeg",
     imagenes: ["assets/images/cliente01.jpeg"],
     titulo: "Un detalle para José 💛"
