@@ -32,8 +32,8 @@ P.D. Siempre quiero que sepas que contigo todo se siente más bonito.`,
     whatsapp: "",
     musica: "assets/audio/cliente01.mp3",
     nombreCancion: "flow natural",
-    imagen: "", 
-    imagenes: [images/cliente01.jpg,],
+    imagen: "assets/images/cliente01.jpeg",
+    imagenes: ["assets/images/cliente01.jpeg"],
     titulo: "Un detalle para José 💛"
   },
   cliente02: {
