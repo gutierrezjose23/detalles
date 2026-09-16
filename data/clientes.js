@@ -14,15 +14,27 @@ window.CONFIGURACION_DETALLES = {
 window.CLIENTES = {
   cliente01: {
     id: "cliente01",
-    activo: false,
-    nombre: "", // Nombre de la persona que recibirá el detalle.
-    mensaje: "", // Texto personalizado de la carta.
-    whatsapp: "", // Déjalo vacío para usar el WhatsApp general de arriba.
-    musica: "", // Ruta relativa al archivo de audio, por ejemplo: assets/audio/cancion.mp3
-    nombreCancion: "", // Nombre visible de la canción.
-    imagen: "", // Ruta de la imagen principal.
-    imagenes: [], // Rutas de imágenes adicionales para una galería.
-    titulo: "" // Título personalizado de la página.
+    activo: true,
+    nombre: "José",
+    mensaje: `Para ti, mi persona favorita.
+
+Hay momentos que no necesitan mucho para volverse especiales.
+Solo una mirada, un recuerdo, un gesto que diga: “te pensé”.
+
+Y hoy quiero recordarte lo mucho que te valoro.
+Gracias por acompañarme, por hacerme sonreír y por llenar mi vida de calma, cariño y alegría.
+
+Este detalle es para ti, para recordarte que eres muy importante para mí.
+
+Te quiero mucho 💛
+
+P.D. Siempre quiero que sepas que contigo todo se siente más bonito.`,
+    whatsapp: "",
+    musica: "assets/audio/cliente01.mp3",
+    nombreCancion: "Nuestra canción",
+    imagen: "",
+    imagenes: [],
+    titulo: "Un detalle para José 💛"
   },
   cliente02: {
     id: "cliente02",
