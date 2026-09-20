@@ -38,27 +38,43 @@ simplemente quiero descubrirlo a tu lado.`,
   },
   cliente02: {
     id: "cliente02",
-    activo: false,
-    nombre: "",
-    mensaje: "",
+    activo: true,
+    nombre: "Valentina",
+    mensaje: `Para la persona que convierte los días normales en recuerdos bonitos.
+
+Gracias por tu forma de estar, por las conversaciones que se alargan sin darnos cuenta y por todas esas pequeñas cosas que hacen especial compartir la vida contigo.
+
+Este detalle es pequeño, pero lleva mucho cariño.
+
+Espero que al abrirlo sonrías tanto como yo sonrío cada vez que pienso en ti.
+
+Con cariño, siempre. 💛`,
     whatsapp: "",
     musica: "",
     nombreCancion: "",
     imagen: "",
     imagenes: [],
-    titulo: ""
+    titulo: "Un detalle para Valentina 💛"
   },
   cliente03: {
     id: "cliente03",
-    activo: false,
-    nombre: "",
-    mensaje: "",
+    activo: true,
+    nombre: "Mateo",
+    mensaje: `Hay personas que llegan sin hacer ruido y terminan dejando una huella enorme.
+
+Tú eres una de esas personas.
+
+Quería regalarte algo diferente: un momento para recordarte lo importante que eres y lo bonito que es coincidir contigo.
+
+Que nunca te falten motivos para sonreír, sueños por cumplir y alguien que celebre cada uno de tus pasos.
+
+Este detalle es para ti, con todo mi cariño. 🌻`,
     whatsapp: "",
     musica: "",
     nombreCancion: "",
     imagen: "",
     imagenes: [],
-    titulo: ""
+    titulo: "Para Mateo, con cariño 🌻"
   },
   cliente04: {
     id: "cliente04",
