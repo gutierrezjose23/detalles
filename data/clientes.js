@@ -40,20 +40,19 @@ simplemente quiero descubrirlo a tu lado.`,
     id: "cliente02",
     activo: true,
     nombre: "Valentina",
-    mensaje: `Para la persona que convierte los días normales en recuerdos bonitos.
+    mensaje: `Amiga, quiero que sepas lo importante que eres para mí. Gracias por estar presente en los buenos momentos, pero sobre todo por no alejarte cuando las cosas se ponen difíciles.
 
-Gracias por tu forma de estar, por las conversaciones que se alargan sin darnos cuenta y por todas esas pequeñas cosas que hacen especial compartir la vida contigo.
+Nuestra amistad está hecha de risas, conversaciones interminables, consejos sinceros y recuerdos que siempre llevaré conmigo. Tal vez no te lo diga todos los días, pero valoro muchísimo tenerte en mi vida.
 
-Este detalle es pequeño, pero lleva mucho cariño.
+Deseo que nunca olvides lo increíble, fuerte y especial que eres. Pase lo que pase y sin importar cuánto cambien nuestras vidas, siempre podrás contar conmigo. Gracias por ser más que una amiga: gracias por convertirte en parte de mi familia. 💛
 
-Espero que al abrirlo sonrías tanto como yo sonrío cada vez que pienso en ti.
 
 Con cariño, siempre. 💛`,
     whatsapp: "",
-    musica: "",
-    nombreCancion: "",
-    imagen: "",
-    imagenes: [],
+    musica: "assets/audio/cliente02 -x.mp3",
+    nombreCancion: "Cliente 02",
+    imagen: "assets/images/cliente02.jpg",
+    imagenes: ["assets/images/cliente02.jpg"],
     titulo: "Un detalle para Valentina 💛"
   },
   cliente03: {
