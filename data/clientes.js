@@ -39,7 +39,7 @@ simplemente quiero descubrirlo a tu lado.`,
   cliente02: {
     id: "cliente02",
     activo: true,
-    nombre: "Valentina",
+    nombre: "Angelly",
     mensaje: `Amiga, quiero que sepas lo importante que eres para mí. Gracias por estar presente en los buenos momentos, pero sobre todo por no alejarte cuando las cosas se ponen difíciles.
 
 Nuestra amistad está hecha de risas, conversaciones interminables, consejos sinceros y recuerdos que siempre llevaré conmigo. Tal vez no te lo diga todos los días, pero valoro muchísimo tenerte en mi vida.
@@ -53,7 +53,7 @@ Con cariño, siempre. 💛`,
     nombreCancion: "Cliente 02",
     imagen: "assets/images/cliente02.jpg",
     imagenes: ["assets/images/cliente02.jpg"],
-    titulo: "Un detalle para Valentina 💛"
+    titulo: "Un detalle para ANGELLY 💛"
   },
   cliente03: {
     id: "cliente03",
