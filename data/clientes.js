@@ -50,7 +50,7 @@ Deseo que nunca olvides lo increíble, fuerte y especial que eres. Pase lo que p
 Con cariño, siempre. 💛`,
     whatsapp: "",
     musica: "assets/audio/cliente02 -x.mp3",
-    nombreCancion: "Cliente 02",
+    nombreCancion: "gracias por ser mi amiga",
     imagen: "assets/images/cliente02.jpg",
     imagenes: ["assets/images/cliente02.jpg"],
     titulo: "Un detalle para ANGELLY 💛"
