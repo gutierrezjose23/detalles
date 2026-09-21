@@ -58,23 +58,26 @@ Con cariño, siempre. 💛`,
   cliente03: {
     id: "cliente03",
     activo: true,
-    nombre: "Mateo",
-    mensaje: `Hay personas que llegan sin hacer ruido y terminan dejando una huella enorme.
+    nombre: "ANDREA",
+    mensaje: `A veces la vida nos lleva por caminos distintos, nos llena de silencios y deja pasar los años sin pedir permiso. Pero hay personas que, aunque el tiempo avance, permanecen guardadas en algún rincón de nuestra memoria, como una canción antigua que basta escuchar para volver a sentir cerca tantos momentos.
 
-Tú eres una de esas personas.
+Nuestra amistad ha tenido risas, conversaciones, distancias y etapas que quizá ninguno de los dos imaginó. Hemos cambiado, hemos vivido nuestras propias historias y, aun así, aquí seguimos, recordando cómo empezó todo. Es curioso cómo unas simples conversaciones pueden convertirse, con los años, en pequeños tesoros.
 
-Quería regalarte algo diferente: un momento para recordarte lo importante que eres y lo bonito que es coincidir contigo.
+Mientras escuchas esta canción de Flor Pileña, quiero que recuerdes que hice este detalle con mucho aprecio. No para cambiar nuestra historia ni ponerle otro significado, sino para agradecerte por haber formado parte de ella y por seguir siendo mi amiga.
 
-Que nunca te falten motivos para sonreír, sueños por cumplir y alguien que celebre cada uno de tus pasos.
+Tal vez el tiempo sea como el viento: mueve muchas cosas de lugar, pero no siempre consigue borrar las huellas que algunas personas dejan en nuestro camino.
 
-Este detalle es para ti, con todo mi cariño. 🌻`,
+Gracias por las conversaciones, por las risas y por los recuerdos. Aunque la vida continúe avanzando, siempre será bonito mirar atrás y saber que, en algún momento del camino, coincidimos.
+
+Con cariño,
+José 🌻`,
     whatsapp: "",
     musica: "assets/audio/cliente03 -z.mp3",
-    nombreCancion: "",
+    nombreCancion: "para andrea",
     imagen: "assets/images/cliente03.png",
     imagenes: [],
     floresGrandes: true,
-    titulo: "Para Mateo, con cariño 🌻"
+    titulo: "Para ANDREA, con cariño 🌻"
   },
   cliente04: {
     id: "cliente04",
