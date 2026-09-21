@@ -81,15 +81,28 @@ José 🌻`,
   },
   cliente04: {
     id: "cliente04",
-    activo: false,
-    nombre: "",
-    mensaje: "",
+    activo: true,
+    nombre: "Claudia",
+    mensaje: `A veces miro hacia atrás y siento que el tiempo pasó como un río silencioso: se llevó nuestros juegos, nuestras pequeñas peleas y aquellos días en los que el mundo parecía caber dentro de nuestra casa. Crecimos sin darnos cuenta, pero hay recuerdos que el tiempo nunca podrá borrar.
+
+Quizá no siempre encuentre las palabras correctas, ni sepa demostrarte todo lo que siento, pero quiero que recuerdes algo: sabes que te quiero mucho. Eres una parte de mi historia que jamás podría arrancar sin dejar un espacio vacío.
+
+La vida puede llevarnos por caminos diferentes y llenar nuestros días de distancia, pero siempre estaremos unidos por las mismas raíces. Somos como dos ramas de un mismo árbol: podemos crecer en distintas direcciones, pero venimos del mismo lugar y compartimos la misma historia.
+
+Cuando el mundo se vuelva frío y sientas que las fuerzas te abandonan, recuerda que en mí siempre tendrás un hermano, un refugio y una puerta abierta. Tal vez no pueda detener todas tus tormentas, pero puedo quedarme a tu lado hasta que vuelva a salir el sol.
+
+No importa cuántos años pasen ni cuánto cambie la vida: para mí siempre serás aquella pequeña luz que creció junto a mí y convirtió muchos días comunes en recuerdos inolvidables.
+
+Te quiero mucho, hermana. Nunca lo olvides.
+
+Con cariño,
+Tu hermano, José`,
     whatsapp: "",
-    musica: "",
+    musica: "assets/audio/cliente4 -c.mp3",
     nombreCancion: "",
-    imagen: "",
+    imagen: "assets/images/cliente04.png",
     imagenes: [],
-    titulo: ""
+    titulo: "Para mi hermana Claudia 💛"
   },
   cliente05: {
     id: "cliente05",
