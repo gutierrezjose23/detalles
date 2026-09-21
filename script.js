@@ -199,6 +199,10 @@ Feliz 21 de septiembre. 💛🌻`,
         configurarWhatsapp(clienteActivo);
         configurarMusica(clienteActivo);
         cargarGaleria(clienteActivo);
+        elementos.sorpresa.classList.toggle(
+            "flores-grandes",
+            clienteActivo.floresGrandes === true
+        );
 
     }
 
@@ -495,14 +499,15 @@ Quiero hacer una sorpresa personalizada.
 
     function explosionFlores() {
 
-        const flores = [
+        const grandes = cliente && cliente.floresGrandes === true;
+        const flores = grandes ? ["🌻"] : [
             "🌻",
             "🌼",
             "💛"
         ];
 
 
-        for (let i = 0; i < 45; i++) {
+        for (let i = 0; i < (grandes ? 18 : 45); i++) {
 
             const flor =
                 document.createElement("div");
@@ -532,7 +537,9 @@ Quiero hacer una sorpresa personalizada.
                 "50%";
 
             flor.style.fontSize =
-                Math.random() * 30 + 20 + "px";
+                grandes
+                    ? `clamp(64px, ${Math.random() * 8 + 16}vw, 150px)`
+                    : Math.random() * 30 + 20 + "px";
 
             flor.style.zIndex =
                 "999";

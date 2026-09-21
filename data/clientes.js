@@ -69,10 +69,11 @@ Que nunca te falten motivos para sonreír, sueños por cumplir y alguien que cel
 
 Este detalle es para ti, con todo mi cariño. 🌻`,
     whatsapp: "",
-    musica: "",
+    musica: "assets/audio/cliente03 -z.mp3",
     nombreCancion: "",
-    imagen: "",
+    imagen: "assets/images/cliente03.png",
     imagenes: [],
+    floresGrandes: true,
     titulo: "Para Mateo, con cariño 🌻"
   },
   cliente04: {

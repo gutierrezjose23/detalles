@@ -634,6 +634,20 @@ body{
 /* CARTA */
 /* ============================= */
 
+.flores-grandes .ramo-grande{
+    height:clamp(220px, 35vw, 320px);
+}
+
+.flores-grandes .flor{
+    font-size:clamp(85px, 18vw, 180px);
+    margin:0 clamp(-35px, -4vw, -16px);
+    filter:drop-shadow(0 12px 24px rgba(255,205,44,.25));
+}
+
+.flores-grandes .flor.grande{
+    font-size:clamp(120px, 24vw, 240px);
+}
+
 .carta{
 
     max-width:
